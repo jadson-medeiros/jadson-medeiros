@@ -2,29 +2,28 @@
 <h3 align="center">Software Engineer</h3>
 
  <div>
-  <a href="https://github.com/jadson-medeiros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadson-medeiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadson-medeiros&layout=compact&langs_count=8&theme=dark"/>
+   <a href="https://github.com/jadson-medeiros">
+   <p><img align="left" alt="jadson-medeiros" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadson-medeiros&show_icons=true&locale=en&layout=compact&theme=dark"></p>
+   <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jadson-medeiros&show_icons=true&locale=en&theme=dark" alt="jadson-medeiros" /></p>
 </div>
   
 <div style="display: inline_block"><br>
  <h3 align="left">Languages and Tools:</h3>
  
-  <img align="center" alt="jad-netcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="jad-netcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="jad-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="jad-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+  <img align="center" alt="jad-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
 
   <img align="center" alt="jad-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jad-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="jad-nodejs" width="40" height="30">
+  <img align="center" alt="jad-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="jad-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
   <img align="center" alt="jad-go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
- <img align="center" alt="jad-bash" width="40" height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
- <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="jad-git" width="40" height="30"/>
- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="jad-postgresql" width="40" height="30"> 
- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="jad-linux" width="40" height="30">
- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="jad-docker" width="40" height="30"/> 
+  <img align="center" alt="jad-git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="jad-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> 
+  <img align="center" alt="jad-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="jad-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> 
 </div>
   
  ##
