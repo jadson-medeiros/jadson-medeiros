@@ -3,8 +3,8 @@
 
  <div>
    <a href="https://github.com/jadson-medeiros">
-   <p><img align="left" alt="jadson-medeiros" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadson-medeiros&show_icons=true&locale=en&layout=compact&theme=dark"></p>
-   <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jadson-medeiros&show_icons=true&locale=en&theme=dark" alt="jadson-medeiros" /></p>
+   <img align="left" alt="jadson-medeiros" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadson-medeiros&show_icons=true&locale=en&layout=compact&theme=dark">
+   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jadson-medeiros&show_icons=true&locale=en&theme=dark" alt="jadson-medeiros" />
 </div>
   
 <div style="display: inline_block"><br>
