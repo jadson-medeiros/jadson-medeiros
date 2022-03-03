@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jadson Medeiros</h1>
 <h3 align="center">Software Engineer</h3>
 
- <div>
+ <div align="center">
    <a href="https://github.com/jadson-medeiros">
-   <img alt="jadson-medeiros" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadson-medeiros&show_icons=true&locale=en&layout=compact&theme=dark">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadson-medeiros&show_icons=true&locale=en&layout=compact&theme=dark" alt="jadson-medeiros">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadson-medeiros&show_icons=true&locale=en&theme=dark" alt="jadson-medeiros" />
 </div>
   
@@ -37,5 +37,3 @@
   <a href="https://www.linkedin.com/in/jadsonmedeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </p>
 </div>
-
- 
