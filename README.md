@@ -13,6 +13,8 @@ I'am a self-taught passionate BackEnd developer from Brazil 🇧🇷</h3>
 | <a href="https://github.com/jadson-medeiros"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadson-medeiros&hide=java,html,scss,css&show_icons=true&include_all_commits=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" /> </a> | <a href="http://github.com/jadson-medeiros"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jadson-medeiros&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="Jadson's github stats" /></a>
 | ------------- | ------------- |
 
+<br />
+
 ##
 <div style="display: inline_block">
   <h3 align="left">Languages and Tools:</h3>
