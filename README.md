@@ -6,7 +6,7 @@ I'am a self-taught passionate BackEnd developer from Brazil 🇧🇷</h3>
 
 **About me**
 
-- 💼 Software Engineer at [HarvestIQ](https://harvestiq.com/)
+- 💼 Software Engineer
   
 - ❤️ I love writing Golang, TypeScript, JavaScript and C#.
 
